@@ -1,16 +1,24 @@
-## Hi there 👋
+gopi@vvit
+                                          ─────────
+        ⣠⣶⣾⣿⣿⣷⣶⣄                       OS: ................ Windows / WSL2
+      ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦                     Host: .............. gopi,VVIT Guntur
+     ⣿⣿⣿⣿⡿⠋⠉⠙⢿⣿⣿⣿⡆                   Kernel: ............ B.Tech CAI (CS + AI)
+    ⣿⣿⣿⡏   ⠄⠄   ⢹⣿⣿⣿                  Uptime: ............ 20 years, 4 months
+    ⣿⣿⣿⡇  ▄▄▄▄▄  ⢸⣿⣿⣿                  Shell: ............. python3 / bash
+    ⣿⣿⣿⣧   ⠛⠛   ⣼⣿⣿⣿                  Packages (langs): .. Python, Java, JS
+     ⣿⣿⣿⣿⣄⠄  ⠄⣠⣿⣿⣿⣿                   DE: ................ VS Code + Git
+      ⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠏                    Terminal: .......... GitHub Actions / Streamlit
+        ⠉⠛⠿⣿⣿⠿⠛⠉                       CPU: ............... AI Builder @ MirAI (2026)
+                                          GPU: ............... FastAPI + SQLite backend
+                                          Memory: ............ st.session_state()
+                                          ───────────────────────────────────────
+                                          > whoami
+                                          Gopi — CS & AI student building things
+                                          that break, get debugged, and ship.
 
-<!--
-**Gopi0311/Gopi0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                          > cat interests.txt
+                                          AI/ML engineering · hackathons
+                                          competitive programming · travel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                          > contact --show
+                                          github.com/Gopi0311
