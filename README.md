@@ -1,4 +1,4 @@
-```text
+<pre>
                                           gopi@vvit
                                           ─────────
         ⣠⣶⣾⣿⣿⣷⣶⣄                       OS: ................ Windows / WSL2
@@ -23,7 +23,8 @@
 
                                           > contact --show
                                           github.com/Gopi0311
-'''
+</pre>
+
 ### 📊 GitHub Stats
 
 <p align="center">
