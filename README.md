@@ -23,3 +23,14 @@
 
                                           > contact --show
                                           github.com/Gopi0311
+'''
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gopi0311&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi0311&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi0311&theme=radical" />
+</p>
